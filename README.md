@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hey!%20I'm%20Kaaviya%20⭐&fontSize=30&fontAlign=middle&fontAlignY=35&fontColor=ffffff&font=Playfair+Display&color=87ceeb,b0e0e6" />
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=1500&pause=800&color=555555&center=true&vCenter=true&repeat=true&width=1000&lines=Flutter+Enthusiast;App Developer;Web+Developer" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=1500&pause=800&color=555555&center=true&vCenter=true&repeat=true&width=1000&lines=Flutter+Enthusiast;App+Developer;Web+Developer" alt="Typing Animation" />
 
 ---
 
