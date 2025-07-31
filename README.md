@@ -48,16 +48,18 @@
 
 ---
 
-<h3 align="center">✨ Fun Fact</h3>
-<p align="center">💡 I enjoy designing creative UIs, and I love learning through building real-world projects!</p>
+<h3 align="center"> Fun Fact about Me </h3>
+- 🌙 I’m more productive at midnight than at noon.  
+- ⌛ I lose track of time when I’m deep into a good project.
+
 
 ---
 
-<h3 align="center">🤝 Connect with Me</h3>
+<h3 align="center"> Connect with Me</h3>
 <p align="center">
   <a href="mailto:kaaviyasubash2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/kaaviyasubash"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/kaaviya-s1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 <!-- Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Thank%20You%20✨&fontSize=25&fontAlign=middle&fontColor=ffffff&color=87ceeb,b0e0e6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&fontColor=ffffff&color=87ceeb,b0e0e6" />
