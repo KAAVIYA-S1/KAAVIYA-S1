@@ -49,8 +49,8 @@
 ---
 
 <h3 align="center"> Fun Fact about Me </h3>
-- 🌙 I’m more productive at midnight than at noon.  
-- ⌛ I lose track of time when I’m deep into a good project.
+-- 🌙 I’m more productive at midnight than at noon.  
+-- ⌛ I lose track of time when I’m deep into a good project.
 
 
 ---
