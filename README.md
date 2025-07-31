@@ -48,7 +48,7 @@
 
 ---
 
-<h3 align="center"> Fun Fact about Me </h3>
+<h3 align="center"> ✨ Fun Fact about Me </h3>
 
 🌙 I’m more productive at midnight than at noon.  
 ⌛ I lose track of time when I’m deep into a good project.
@@ -56,7 +56,7 @@
 
 ---
 
-<h3 align="center"> Connect with Me</h3>
+<h3 align="center"> Connect with Me 🤝</h3>
 <p align="center">
   <a href="mailto:kaaviyasubash2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/kaaviyasubash"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
